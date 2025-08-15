@@ -42,3 +42,6 @@ public class codigopostal {
         }
     }
 }
+
+//fue una practica algo complicada pues no estoy acostumbrado a trabajar con arrays,
+// asi que tuve que apoyarme de varias herramientas, me tomo varias horas completar esta actividad
